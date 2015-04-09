@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Чтв 09 Апр 2015 16:24:35
+EESchema Schematic File Version 2  date Чтв 09 Апр 2015 17:26:14
 LIBS:R
 LIBS:L
 LIBS:C
@@ -54,19 +54,19 @@ USB_D+
 Text HLabel 1950 5800 0    60   Input ~ 0
 USB_VCC
 $Comp
-L HEX_FT232RL U?
+L HEX_FT232RL U1
 U 1 1 55266925
 P 2650 3900
-F 0 "U?" H 2650 4500 60  0000 C CNN
+F 0 "U1" H 2650 4500 60  0000 C CNN
 F 1 "HEX_FT232RL" V 2650 3850 60  0000 C CNN
 	1    2650 3900
 	1    0    0    -1  
 $EndComp
 $Comp
-L FT232RL D?
+L FT232RL D1
 U 1 1 5526691E
 P 4450 3750
-F 0 "D?" H 4450 4550 60  0000 C CNN
+F 0 "D1" H 4450 4550 60  0000 C CNN
 F 1 "FT232RL" H 4450 2350 60  0000 C CNN
 	1    4450 3750
 	1    0    0    -1  
