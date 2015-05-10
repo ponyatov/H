@@ -1,5 +1,5 @@
 #TeXlipse project settings
-#Sun May 10 12:05:03 SAMT 2015
+#Sun May 10 13:16:20 SAMT 2015
 markTmpDer=true
 builderNum=2
 outputDir=
@@ -9,6 +9,6 @@ outputFormat=pdf
 tempDir=tmp
 mainTexFile=work.tex
 outputFile=odurino.pdf
-langSpell=
+langSpell=ru
 markDer=true
 srcDir=
