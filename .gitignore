@@ -3,4 +3,6 @@
 *.bak
 *.net
 *-cache.lib
+/tmp/
+*.idx
 
