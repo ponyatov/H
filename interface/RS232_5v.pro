@@ -1,4 +1,4 @@
-update=Чтв 11 Июн 2015 16:24:36
+update=Чтв 11 Июн 2015 18:06:05
 last_client=eeschema
 [eeschema]
 version=1
@@ -45,3 +45,4 @@ LibName10=SPICE
 LibName11=STMicro
 LibName12=SWITCH
 LibName13=VD
+LibName14=TVS
