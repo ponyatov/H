@@ -1,5 +1,5 @@
-update=Сбт 13 Июн 2015 19:08:20
-last_client=eeschema
+update=Вск 14 Июн 2015 01:09:01
+last_client=pcbnew
 [eeschema]
 version=1
 LibDir=../lib
@@ -46,3 +46,29 @@ LibName11=STMicro
 LibName12=SWITCH
 LibName13=VD
 LibName14=TVS
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
+[pcbnew]
+version=1
+PadDrlX=0
+PadDimH=315
+PadDimV=276
+BoardThickness=630
+TxtPcbV=800
+TxtPcbH=600
+TxtModV=600
+TxtModH=600
+TxtModW=120
+VEgarde=100
+DrawLar=150
+EdgeLar=150
+TxtLar=120
+MSegLar=150
+LastNetListRead=RS232_5v.net
+[pcbnew/libraries]
+LibDir=../lib
+LibName1=THRU
+LibName2=SMD

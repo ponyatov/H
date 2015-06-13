@@ -1,0 +1,94 @@
+Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Вск 14 Июн 2015 01:18:57
+
+BeginCmp
+TimeStamp = /5522AAEE;
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = SM_2_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5522AAC1;
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = SM_2_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5522AD13;
+Reference = C3;
+ValeurCmp = 1uF;
+IdModule  = SM_2_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5522ADAC;
+Reference = C4;
+ValeurCmp = 1uF;
+IdModule  = SM_2_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5522A126;
+Reference = C5;
+ValeurCmp = 10uF;
+IdModule  = SM_2_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55798233;
+Reference = C6;
+ValeurCmp = 0.01;
+IdModule  = SM_2_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55797EFB;
+Reference = R1;
+ValeurCmp = 1k;
+IdModule  = SM_2_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55797F09;
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = SM_2_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /557995D5;
+Reference = TVD1;
+ValeurCmp = TVD2;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /55799649;
+Reference = TVD2;
+ValeurCmp = TVD2;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /55229849;
+Reference = U1;
+ValeurCmp = MAX232;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /55797F31;
+Reference = VD1;
+ValeurCmp = LED_R;
+IdModule  = SM_2_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55797F37;
+Reference = VD2;
+ValeurCmp = LED_G;
+IdModule  = SM_2_0603;
+EndCmp
+
+EndListe
