@@ -1,4 +1,4 @@
-update=Чтв 11 Июн 2015 18:06:05
+update=Сбт 13 Июн 2015 19:08:20
 last_client=eeschema
 [eeschema]
 version=1
