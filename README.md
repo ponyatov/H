@@ -1,3 +1,3 @@
-# ALIEH platform
-## ALIEH:Hardware
+# ALYEH platform
+## ALYEH:Hardware
 Библиотека универсальных электронных модулей
