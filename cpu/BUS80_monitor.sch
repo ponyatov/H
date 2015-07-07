@@ -1,5 +1,4 @@
 EESchema Schematic File Version 2
-LIBS:BUS80_monitor-rescue
 LIBS:Atmel
 LIBS:C
 LIBS:DA_POWER
@@ -15,13 +14,14 @@ LIBS:STMicro
 LIBS:SWITCH
 LIBS:TVS
 LIBS:VD
-EELAYER 25 0
+LIBS:BUS80_monitor-cache
+EELAYER 27 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Монитор шины i8080/8085"
-Date ""
+Date "7 jul 2015"
 Rev ""
 Comp ""
 Comment1 ""
@@ -333,4 +333,6 @@ Wire Wire Line
 	10100 2400 10150 2400
 Wire Wire Line
 	10100 2500 10150 2500
+Text Label 1350 800  0    60   ~ 0
+VCC5
 $EndSCHEMATC
