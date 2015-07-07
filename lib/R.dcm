@@ -1,3 +1,15 @@
-EESchema-DOCLIB  Version 2.0  Date: Втр 06 Янв 2015 15:18:07
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LDR
+D Фоторезистор
+$ENDCMP
+#
+$CMP R8
+D Блок из 8 резисторов
+$ENDCMP
+#
+$CMP Rvar
+D Переменный резистор
+$ENDCMP
 #
 #End Doc Library
