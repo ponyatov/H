@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (22-Jun-2014 BZR 4027)-stable date = Вт 07 июл 2015 18:44:41
+Cmp-Mod V01 Created by CvPcb (22-Jun-2014 BZR 4027)-stable date = Ср 08 июл 2015 15:28:54
 
 BeginCmp
 TimeStamp = /559BB2A3;
@@ -26,6 +26,13 @@ TimeStamp = /559BB36A;
 Reference = HG4;
 ValeurCmp = DA04-11YWA;
 IdModule  = DA04-11xWA;
+EndCmp
+
+BeginCmp
+TimeStamp = /559D0B4B;
+Reference = R1;
+ValeurCmp = RR8;
+IdModule  = R8_THRU;
 EndCmp
 
 BeginCmp
@@ -66,13 +73,6 @@ EndCmp
 BeginCmp
 TimeStamp = /559BD8A4;
 Reference = RX6;
-ValeurCmp = R8;
-IdModule  = R8_THRU;
-EndCmp
-
-BeginCmp
-TimeStamp = /559BD8D7;
-Reference = RX7;
 ValeurCmp = R8;
 IdModule  = R8_THRU;
 EndCmp

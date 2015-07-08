@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0
+EESchema-DOCLIB  Version 2.0  Date: Ср 08 июл 2015 15:36:04
 #
 $CMP LDR
 D Фоторезистор
@@ -8,7 +8,7 @@ $CMP R8
 D Блок из 8 резисторов
 $ENDCMP
 #
-$CMP Rvar
+$CMP RVAR
 D Переменный резистор
 $ENDCMP
 #
