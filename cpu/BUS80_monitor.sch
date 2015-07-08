@@ -21,7 +21,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Монитор шины i8080/8085"
-Date "7 jul 2015"
+Date "8 jul 2015"
 Rev ""
 Comp ""
 Comment1 ""
@@ -74,7 +74,23 @@ F 3 "" H 10200 2050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1200 800  10800 800 
+	1200 800  1750 800 
+Wire Wire Line
+	1750 800  3050 800 
+Wire Wire Line
+	3050 800  4100 800 
+Wire Wire Line
+	4100 800  5400 800 
+Wire Wire Line
+	5400 800  6550 800 
+Wire Wire Line
+	6550 800  7850 800 
+Wire Wire Line
+	7850 800  8900 800 
+Wire Wire Line
+	8900 800  10200 800 
+Wire Wire Line
+	10200 800  10800 800 
 Wire Wire Line
 	10800 800  10800 750 
 Wire Wire Line
@@ -302,22 +318,6 @@ Wire Wire Line
 Wire Wire Line
 	7750 2500 7800 2500
 Wire Wire Line
-	8950 1800 9000 1800
-Wire Wire Line
-	8950 1900 9000 1900
-Wire Wire Line
-	8950 2000 9000 2000
-Wire Wire Line
-	8950 2100 9000 2100
-Wire Wire Line
-	8950 2200 9000 2200
-Wire Wire Line
-	8950 2300 9000 2300
-Wire Wire Line
-	8950 2400 9000 2400
-Wire Wire Line
-	8950 2500 9000 2500
-Wire Wire Line
 	10100 1800 10150 1800
 Wire Wire Line
 	10100 1900 10150 1900
@@ -335,4 +335,20 @@ Wire Wire Line
 	10100 2500 10150 2500
 Text Label 1350 800  0    60   ~ 0
 VCC5
+Wire Wire Line
+	8950 1800 9000 1800
+Wire Wire Line
+	8950 1900 9000 1900
+Wire Wire Line
+	8950 2000 9000 2000
+Wire Wire Line
+	8950 2100 9000 2100
+Wire Wire Line
+	8950 2200 9000 2200
+Wire Wire Line
+	8950 2300 9000 2300
+Wire Wire Line
+	8950 2400 9000 2400
+Wire Wire Line
+	8950 2500 9000 2500
 $EndSCHEMATC

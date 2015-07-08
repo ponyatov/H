@@ -2,11 +2,11 @@
 
   (general
     (links 63)
-    (no_connects 62)
-    (area 172.72 46.99 353.06 214.63)
+    (no_connects 63)
+    (area 232.875445 80.451 315.289001 117.669)
     (thickness 1.6)
     (drawings 0)
-    (tracks 2)
+    (tracks 1)
     (zones 0)
     (modules 12)
     (nets 62)
@@ -14,7 +14,7 @@
 
   (page A3)
   (layers
-    (15 F.Cu signal hide)
+    (15 F.Cu signal)
     (0 B.Cu signal)
     (16 B.Adhes user)
     (17 F.Adhes user)
@@ -221,7 +221,7 @@
   )
 
   (module R8_THRU (layer F.Cu) (tedit 559BE576) (tstamp 559BE616)
-    (at 212.09 160.02)
+    (at 242.57 83.82)
     (path /559BD6AD)
     (fp_text reference RX1 (at 0 -2.54) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -287,7 +287,7 @@
   )
 
   (module R8_THRU (layer F.Cu) (tedit 559BE576) (tstamp 559BE62A)
-    (at 181.61 59.69)
+    (at 242.57 111.76)
     (path /559BD6FC)
     (fp_text reference RX2 (at 0 -2.54) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -354,7 +354,7 @@
   )
 
   (module R8_THRU (layer F.Cu) (tedit 559BE576) (tstamp 559BE63E)
-    (at 341.63 173.99)
+    (at 262.89 83.82)
     (path /559BD71F)
     (fp_text reference RX3 (at 0 -2.54) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -421,7 +421,7 @@
   )
 
   (module R8_THRU (layer F.Cu) (tedit 559BE576) (tstamp 559BE652)
-    (at 256.54 208.28)
+    (at 262.89 111.76)
     (path /559BD74A)
     (fp_text reference RX4 (at 0 -2.54) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -487,7 +487,7 @@
   )
 
   (module R8_THRU (layer F.Cu) (tedit 559BE576) (tstamp 559BE666)
-    (at 306.07 50.8)
+    (at 283.21 83.82)
     (path /559BD77B)
     (fp_text reference RX5 (at 0 -2.54) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -554,7 +554,7 @@
   )
 
   (module R8_THRU (layer F.Cu) (tedit 559BE576) (tstamp 559BE67A)
-    (at 300.99 113.03)
+    (at 283.21 111.76)
     (path /559BD8A4)
     (fp_text reference RX6 (at 0 -2.54) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -619,8 +619,8 @@
     )
   )
 
-  (module R8_THRU (layer F.Cu) (tedit 559BE576) (tstamp 559BE68E)
-    (at 337.82 69.85)
+  (module R8_THRU (layer F.Cu) (tedit 559D049D) (tstamp 559BE68E)
+    (at 303.53 83.82)
     (path /559BD8D7)
     (fp_text reference RX7 (at 0 -2.54) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -687,7 +687,7 @@
   )
 
   (module R8_THRU (layer F.Cu) (tedit 559BE576) (tstamp 559BE6A2)
-    (at 337.82 97.79)
+    (at 303.53 111.76)
     (path /559BD910)
     (fp_text reference RX8 (at 0 -2.54) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -753,7 +753,7 @@
   )
 
   (module DA04-11xWA (layer F.Cu) (tedit 559BE62C) (tstamp 559BE6C4)
-    (at 276.86 83.82)
+    (at 242.57 97.79)
     (path /559BB2A3)
     (fp_text reference HG1 (at -3.81 -2.54) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -842,7 +842,7 @@
   )
 
   (module DA04-11xWA (layer F.Cu) (tedit 559BE661) (tstamp 559BE6E6)
-    (at 297.18 83.82)
+    (at 262.89 97.79)
     (path /559BB2EE)
     (fp_text reference HG2 (at -3.81 -2.54) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -931,7 +931,7 @@
   )
 
   (module DA04-11xWA (layer F.Cu) (tedit 559BE66B) (tstamp 559BE708)
-    (at 317.5 83.82)
+    (at 283.21 97.79)
     (path /559BB327)
     (fp_text reference HG3 (at -3.81 -2.54) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1020,7 +1020,7 @@
   )
 
   (module DA04-11xWA (layer F.Cu) (tedit 559BE674) (tstamp 559BE72A)
-    (at 337.82 83.82)
+    (at 303.53 97.79)
     (path /559BB36A)
     (fp_text reference HG4 (at -3.81 -2.54) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1108,7 +1108,6 @@
     )
   )
 
-  (segment (start 347.98 78.74) (end 342.9 73.66) (width 0.254) (layer F.Cu) (net 20) (status 80000))
-  (segment (start 342.9 73.66) (end 342.9 72.39) (width 0.254) (layer F.Cu) (net 20) (status 80000))
+  (segment (start 308.61 86.36) (end 308.61 86.36) (width 0.5) (layer F.Cu) (net 20) (status 80030))
 
 )
