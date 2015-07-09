@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: 01.09.2014 15:36:21
+EESchema-LIBRARY Version 2.3  Date: Чт 09 июл 2015 12:38:04
 #encoding utf-8
 #
 # C
@@ -25,14 +25,17 @@ F0 "C" 0 250 60 H V C CNN
 F1 "CP" 0 -250 60 H V C CNN
 F2 "~" 75 0 60 H V C CNN
 F3 "~" 75 0 60 H V C CNN
+$FPLIST
+ CP_5x9_H
+ CP_5x9_V
+$ENDFPLIST
 DRAW
-T 0 -100 125 60 0 0 0 +  Normal 0 C C
+T 0 -100 -50 60 0 0 0 +  Normal 0 C C
 P 2 0 0 0  25 0  50 0 N
-P 2 0 1 0  -25 150  -25 -150 N
-P 2 0 1 0  25 150  25 -150 N
-P 4 0 1 0  -25 150  -50 150  -50 -150  -25 -150 N
-X ~ 1 -150 0 100 R 50 50 1 1 P
-X ~ 2 150 0 100 L 50 50 1 1 P
+A 175 0 180 1236 -1236 0 1 0 N 75 150 75 -150
+P 2 0 1 0  -50 150  -50 -150 N
+X ~ 1 100 0 100 L 50 50 1 1 P
+X ~ 2 -150 0 100 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #

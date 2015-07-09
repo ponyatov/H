@@ -1,0 +1,52 @@
+Cmp-Mod V01 Created by CvPcb (22-Jun-2014 BZR 4027)-stable date = Чт 09 июл 2015 12:39:04
+
+BeginCmp
+TimeStamp = /559D3514;
+Reference = C1;
+ValeurCmp = 47uFx35v;
+IdModule  = CP_5x9_H;
+EndCmp
+
+BeginCmp
+TimeStamp = /559D3532;
+Reference = C2;
+ValeurCmp = 47uFx35v;
+IdModule  = CP_5x9_H;
+EndCmp
+
+BeginCmp
+TimeStamp = /559D3550;
+Reference = C4;
+ValeurCmp = 47uFx35v;
+IdModule  = CP_5x9_H;
+EndCmp
+
+BeginCmp
+TimeStamp = /559D34E4;
+Reference = DA1;
+ValeurCmp = KR142EN5A;
+IdModule  = TO-220_H;
+EndCmp
+
+BeginCmp
+TimeStamp = /559D34F3;
+Reference = DA2;
+ValeurCmp = KR142EN12A;
+IdModule  = TO-220_H;
+EndCmp
+
+BeginCmp
+TimeStamp = /559D3706;
+Reference = R1;
+ValeurCmp = R40;
+IdModule  = TH_2_RH_1W4;
+EndCmp
+
+BeginCmp
+TimeStamp = /559D3715;
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = TH_2_RH_1W4;
+EndCmp
+
+EndListe

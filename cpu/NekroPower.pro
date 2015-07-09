@@ -1,5 +1,5 @@
-update=Ср 08 июл 2015 18:34:19
-last_client=eeschema
+update=Чт 09 июл 2015 11:54:04
+last_client=cvpcb
 [eeschema]
 version=1
 LibDir=../lib
@@ -24,3 +24,14 @@ LibName12=STMicro
 LibName13=SWITCH
 LibName14=TVS
 LibName15=VD
+[pcbnew]
+[pcbnew/libraries]
+LibName1=LED
+LibName2=SMD
+LibName3=THRU
+LibDir=../lib
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
